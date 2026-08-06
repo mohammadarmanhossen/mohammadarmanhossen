@@ -6,7 +6,11 @@
   <strong>Building scalable web apps & exploring modern AI technologies 🚀</strong>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=27C93F&height=2&section=footer&width=800" width="70%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=1&section=footer"
+    width="98%"
+    alt="divider"
+  />
 </p>
 
 <p align="center">
@@ -19,7 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=27C93F&height=2&section=footer&width=800" width="70%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=1&section=footer"
+    width="98%"
+    alt="divider"
+  />
 </p>
 
 <p align="center">
@@ -29,13 +37,17 @@
   <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadarmanhossen&label=Profile%20Views&color=27c93f&style=flat-square" alt="Profile Views" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=27C93F&height=2&section=footer&width=800" width="70%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=1&section=footer"
+    width="98%"
+    alt="divider"
+  />
 </p>
 
 <div align="center">
