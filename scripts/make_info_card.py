@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "arman-info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 480, 520
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -33,21 +33,34 @@ ACCENT = "#22d3ee"
 
 ROWS = [
     ("host",),
-    ("kv", "Current", "Software Engineer"),
-    ("kv", "Previous", "Freelance Developer"),
+
+    ("kv", "Name", "Md. Arman Hossen"),
+    ("kv", "Role", "Full-Stack Developer"),
+    ("kv", "Focus", "Django · Next.js · REST API · AI"),
     ("kv", "Open Source", "Contributor"),
-    ("kv", "Education", "Computer Science"),
-    ("kv", "Communities", "Tech Enthusiast"),
-    ("kv", "Focus", "Fullstack · AI · UI/UX"),
+    ("kv", "Education", "BBA in Management"),
+    ("kv", "Location", "Bangladesh"),
+
     ("gap",),
-    ("sec", "Stack"),
-    ("kv", "Backend", "Python, Node.js, Express, Postgres"),
+
+    ("sec", "Tech Stack"),
+
+    ("kv", "Languages", "Python, JavaScript, C, C++"),
     ("kv", "Frontend", "React, Next.js, Tailwind CSS"),
-    ("kv", "Infra", "Docker, Vercel, AWS"),
+    ("kv", "Backend", "Django, DRF, Node.js, Express.js"),
+    ("kv", "Databases", "PostgreSQL, MySQL, MongoDB"),
+    ("kv", "Tools", "Git, GitHub, Docker, VS Code, Postman"),
+    ("kv", "OS", "Windows, Linux"),
+
     ("gap",),
+
     ("sec", "Highlights"),
+
+    ("bul", "Building scalable full-stack web applications"),
     ("bul", "Passionate about Open Source"),
-    ("bul", "Loves building beautiful interfaces"),
+    ("bul", "Learning AI and modern web technologies"),
+    ("bul", "Strong problem-solving and teamwork skills"),
+    ("bul", "Enjoys Chess and Programming Puzzles"),
 ]
 
 def esc(s):
