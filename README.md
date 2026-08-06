@@ -15,10 +15,10 @@
 
 <p align="center">
   <picture>
-    <img src="./arman-ascii.svg" alt="Arman's ASCII Portrait" width="49%">
+    <img src="./arman-ascii.svg?v=1" alt="Arman's ASCII Portrait" width="49%">
   </picture>
   <picture>
-    <img src="./arman-info-card.svg" alt="Arman's Info Card" width="49%">
+    <img src="./arman-info-card.svg?v=1" alt="Arman's Info Card" width="49%">
   </picture>
 </p>
 
