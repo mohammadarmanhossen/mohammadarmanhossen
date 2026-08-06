@@ -5,8 +5,9 @@
 <p align="center">
   <strong>Building scalable web apps & exploring modern AI technologies 🚀</strong>
 </p>
-
-<br> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27C93F&height=2&section=footer&width=800" width="70%">
+</p>
 
 <p align="center">
   <picture>
@@ -17,9 +18,9 @@
   </picture>
 </p>
 
-<br>
-<hr>
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27C93F&height=2&section=footer&width=800" width="70%">
+</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23444444.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -35,9 +36,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadarmanhossen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="Top Languages" width="410"/>
 </div>
 
-<br>
-<hr>
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27C93F&height=2&section=footer&width=800" width="70%">
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadarmanhossen&label=Profile%20Views&color=27c93f&style=flat-square" alt="Profile Views" />
