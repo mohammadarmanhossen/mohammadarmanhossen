@@ -11,10 +11,10 @@
 
 <p align="center">
   <picture>
-    <img src="./arman-ascii.svg" alt="Arman's ASCII Portrait" height="370">
+    <img src="./arman-ascii.svg" alt="Arman's ASCII Portrait" width="49%">
   </picture>
   <picture>
-    <img src="./arman-info-card.svg" alt="Arman's Info Card" height="370">
+    <img src="./arman-info-card.svg" alt="Arman's Info Card" width="49%">
   </picture>
 </p>
 
