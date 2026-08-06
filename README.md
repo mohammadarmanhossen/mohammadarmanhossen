@@ -18,6 +18,8 @@
 </p>
 
 <br>
+<hr align="center" width="50%">
+<br>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23444444.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -26,11 +28,15 @@
   <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadarmanhossen&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="GitHub Stats" width="410"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadarmanhossen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="Top Languages" width="410"/>
 </div>
 
+<br>
+<hr align="center" width="50%">
 <br>
 
 <div align="center">
