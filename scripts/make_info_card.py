@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "arman-info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 520
+W, H = 504, 525
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
