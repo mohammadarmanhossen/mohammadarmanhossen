@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=27C93F&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Md+Arman+Hossen+👋;Full-Stack+Developer;AI+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=27C93F&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Md+Arman+Hossen;Full-Stack+Developer;AI+Enthusiast;Welcome+to+my+profile" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 <p align="center">
   <picture>
-    <img src="./arman-ascii.svg" alt="Arman's ASCII Portrait" width="410">
+    <img src="./arman-ascii.svg" alt="Arman's ASCII Portrait" height="370">
   </picture>
   <picture>
-    <img src="./arman-info-card.svg" alt="Arman's Info Card" width="410">
+    <img src="./arman-info-card.svg" alt="Arman's Info Card" height="370">
   </picture>
 </p>
 
