@@ -39,6 +39,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadarmanhossen&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="GitHub Stats" width="445"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadarmanhossen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="Top Languages" width="445"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadarmanhossen&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="GitHub Stats" width="410"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadarmanhossen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="Top Languages" width="410"/>
 </div>
