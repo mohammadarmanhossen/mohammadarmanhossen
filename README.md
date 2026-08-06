@@ -30,16 +30,11 @@
 </p>
 
 <br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadarmanhossen&label=Profile%20Views&color=27c93f&style=flat-square" alt="Profile Views" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadarmanhossen&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="GitHub Stats" width="410"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadarmanhossen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="Top Languages" width="410"/>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=27C93F&height=2&section=footer&width=800" width="70%">
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadarmanhossen&label=Profile%20Views&color=27c93f&style=flat-square" alt="Profile Views" />
 </div>
