@@ -27,8 +27,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadarmanhossen&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="GitHub Stats" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadarmanhossen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="Top Languages" width="410"/>
+  <img src="https://readme-stats.lecoq.io/api?username=mohammadarmanhossen&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="GitHub Stats" width="410"/>
+  <img src="https://readme-stats.lecoq.io/api/top-langs/?username=mohammadarmanhossen&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=27C93F" alt="Top Languages" width="410"/>
 </div>
 
 <br>
