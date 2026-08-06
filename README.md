@@ -18,7 +18,7 @@
 </p>
 
 <br>
----
+<hr>
 <br>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </div>
 
 <br>
----
+<hr>
 <br>
 
 <div align="center">
